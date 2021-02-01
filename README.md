@@ -1,3 +1,3 @@
 # hello-world
 
-"Life begins at the end of your comfort zone" - Neale Donald Walsch
+"Life begins at the end of your comfort zones" - Neale Donald Walsch
